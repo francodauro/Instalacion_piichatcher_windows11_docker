@@ -72,7 +72,7 @@ Esto confirma que PII Catcher está funcionando correctamente.
 
 ### Listar los detectores disponibles:
 ```bash
-piicatcher detectors
+piicatcher detectors list
 ```
 
 ### Escanear un archivo local (por ejemplo, CSV o Parquet):
